@@ -3,6 +3,6 @@ class Program
     public static void Main()
     {
         Console.WriteLine("biron nima");
-        Console.WriteLine("ajbxsnkdlcs");
+        Console.WriteLine("alcs");
     }
 }
